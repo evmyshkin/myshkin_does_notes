@@ -3,11 +3,9 @@
 
 ## Структура
 
-### magic_methods/
+### [magic_methods](https://github.com/evmyshkin/myshkin_does_notes/tree/main/magic_methods)
 Папка с jupyter-ноутбуками о магических методах Python. Содержит примеры и кор-концепции. По мере прочтения книги и знакомства с докой будет дополняться.
 
-### to be continued
-...
 
 ## Нюансы
 
