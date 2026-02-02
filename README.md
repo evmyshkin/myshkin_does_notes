@@ -6,7 +6,8 @@
 ### [magic_methods](https://github.com/evmyshkin/myshkin_does_notes/tree/main/magic_methods)
 Папка с jupyter-ноутбуками о магических методах Python. Содержит примеры и кор-концепции. По мере прочтения книги и знакомства с докой будет дополняться.
 
-## Нюансы
+### [memory_management](https://github.com/evmyshkin/myshkin_does_notes/tree/main/memory_management)
+Управление использованием памяти и быстродействием с помощью разных структур данных и подходов.
 
 * Неакадемический язык
 * Упрощения и допущения
