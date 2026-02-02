@@ -1,5 +1,5 @@
 # myshkin_does_notes
-Проект-памятка об основах Python от дяди Жени. Идея основана разборе примеров из книги [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/), а также документации и общении с ИИ.
+Проект-памятка об основах Python от дяди Жени. Идея основана разборе примеров из книги [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/), а также [документации](https://docs.python.org/3/reference/datamodel.html) и общении с ИИ.
 
 ## Структура
 
@@ -15,4 +15,3 @@
 * Упрощения и допущения
 * Изменяемый контент
 * Возможны очепятки
-* Полная [дока](https://docs.python.org/3/reference/datamodel.html) с типами Python, контрактам которых позволяют соответствовать имплементированные магические методы.
