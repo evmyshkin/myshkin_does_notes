@@ -9,6 +9,9 @@
 ### [language_tricks](https://github.com/evmyshkin/myshkin_does_notes/tree/main/language_tricks)
 Всякие удобности, которые упрощают жизнь.
 
+### [inspection](https://github.com/evmyshkin/myshkin_does_notes/tree/main/inspection)
+Исследование кода, отладка исходного кода, просмотр стека вызовов.
+
 ### [memory_management](https://github.com/evmyshkin/myshkin_does_notes/tree/main/memory_management)
 Управление использованием памяти и быстродействием с помощью разных структур данных и подходов.
 
