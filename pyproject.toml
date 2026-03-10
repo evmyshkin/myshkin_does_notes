@@ -5,9 +5,17 @@ description = "Проект-памятка для погружения в Python
 requires-python = ">=3.13"
 dependencies = [
     "fastapi[standard]>=0.128.7",
+    "httpx>=0.28.1",
     "jupyterlab>=4.5.3",
+    "loguru>=0.7.3",
     "matplotlib>=3.10.8",
     "pandas>=3.0.0",
+    "playwright>=1.58.0",
     "pytest>=9.0.2",
     "sqlalchemy>=2.0.46",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=1.19.1",
 ]
